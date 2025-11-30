@@ -5,10 +5,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ahmed</h1>
 <h3 align="center">AI Engineer | Deep Learning & NLP Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadsalah3&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsalah3" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
