@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working as an **AI Engineer**
-- 🤖 Skilled in **Machine Learning, Deep Learning, NLP, Computer Vision, Time Series**
+- 🤖 Skilled in **Machine Learning, Deep Learning, NLP, Computer Vision, Time Series, LLMs, and RAG**
 - 📊 Strong experience with **Power BI** and **Microsoft Fabric**
 - 🧠 Passionate about building **AI-powered applications**
 - 📫 Reach me at **mohdsleem3@gmail.com**
