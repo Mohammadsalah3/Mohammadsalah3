@@ -10,7 +10,6 @@
 ## 👨‍💻 About Me
 - 🔭 I’m currently working as an **AI Engineer**
 - 🤖 Skilled in **Machine Learning, Deep Learning, NLP, Computer Vision, Time Series, LLMs, and RAG**
-- 📊 Strong experience with **Power BI** and **Microsoft Fabric**
 - 🧠 Passionate about building **AI-powered applications**
 - 📫 Reach me at **mohdsleem3@gmail.com**
 - ⚡ Fun fact: I enjoy **programming + playing padel**
@@ -34,8 +33,6 @@
 
   <!-- Main skillicons -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,git,html,css,js,postgres,arduino,azure" />
-  <!-- Power BI -->
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="48" height="48" />
 </p>
 
 ---
